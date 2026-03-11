@@ -1,1 +1,7 @@
-Este arquivo foi criado para atividade da faculdade. aprendendo a usar GITHUB para controle de versão de aqrquivos.
+Este arquivo foi criado para atividade da faculdade, aprendendo a usar GITHUB para controle de versão de arquivos.
+git init
+git clone https://github.com/usuario/projeto_scm_faculdade.git
+git add .
+git commit -m 
+git commit -m "Adicionando arquivo atividade.txt"
+git push
